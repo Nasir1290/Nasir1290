@@ -93,8 +93,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Nasir1290/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir1290&theme=react&border=61dafb&hide_border=true" alt="Nasir1290" />
+     <a href="https://github.com/Nasir1290/github-readme-stats" title="Go to Source">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir1290&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
       </a>
     </td>
     <td>
