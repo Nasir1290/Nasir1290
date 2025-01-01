@@ -104,6 +104,11 @@
         <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Nasir1290&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
     </td>
+     <td>
+      <a href="https://github.com/Nasir1290/github-readme-stats" title="Go to Source">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir1290&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      </a>
+    </td>
   </tr>
 </table>
 
