@@ -18,7 +18,7 @@
 
 <div align="center">
 
-🌍 &nbsp;** From: Dhaka, Bangladesh** &nbsp;·&nbsp;
+🌍 &nbsp;**From: Dhaka, Bangladesh**
 
 > *"Crafting scalable web apps by day — training intelligent models by night."*
 
