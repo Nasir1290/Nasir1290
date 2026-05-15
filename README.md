@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nasir%20Mollah&fontSize=58&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16&descColor=ffffffaa&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Nasir%20Mollah&fontSize=58&fontColor=fff&fontAlignY=40&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=16&descColor=ffffffaa&animation=twinkling" width="100%" />
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-nasir-mollah-7863a6291/" target="_blank">
@@ -13,7 +11,7 @@
   </a>&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100029136485878" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="24" />
-  </a>&nbsp;
+  </a>
 </div>
 
 <br/>
@@ -21,20 +19,10 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="60%" />
-</div>
-
-<br/>
-
-<div align="center">
 
 🌍 &nbsp;**Dhaka, Bangladesh** &nbsp;·&nbsp; 💻 &nbsp;**Full-Stack Developer** &nbsp;·&nbsp; 🤖 &nbsp;**AI/ML Engineer**
 
-<br/>
-
 > *"Crafting scalable web apps by day — training intelligent models by night."*
-
-<br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Next.js+%7C+Node.js+%7C+TypeScript+%7C+Python;Currently+mastering+AI+%2F+ML+%F0%9F%A4%96;Exploring+C%23+%C2%B7+.NET+%C2%B7+Angular+%F0%9F%94%B7;Building+products+that+matter+%F0%9F%9A%80)
 
