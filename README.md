@@ -16,8 +16,6 @@
 
 <br/>
 
----
-
 <div align="center">
 
 🌍 &nbsp;**Dhaka, Bangladesh** &nbsp;·&nbsp; 💻 &nbsp;**Full-Stack Developer** &nbsp;·&nbsp; 🤖 &nbsp;**AI/ML Engineer**
