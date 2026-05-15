@@ -18,7 +18,7 @@
 
 <div align="center">
 
-🌍 &nbsp;**Dhaka, Bangladesh** &nbsp;·&nbsp; 💻 &nbsp;**Full-Stack Developer** &nbsp;·&nbsp; 🤖 &nbsp;**AI/ML Engineer**
+🌍 &nbsp;** From: Dhaka, Bangladesh** &nbsp;·&nbsp;
 
 > *"Crafting scalable web apps by day — training intelligent models by night."*
 
