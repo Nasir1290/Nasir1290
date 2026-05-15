@@ -98,7 +98,7 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Nasir1290&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nasir1290&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&count_private=true" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nasir1290&theme=tokyonight&hide_border=true&layout=compact&langs_count=7&count_private=true&hide=html,css" height="160" />
 </div>
 
 <br/>
