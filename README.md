@@ -1,38 +1,48 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/nasir1290/image/upload/v1777692273/linkedin-banner_pyrhpo.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:61dafb,100:0d1117&height=200&section=header&text=Md%20Nasir%20Mollah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&descColor=61dafb&animation=fadeIn" width="100%" />
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-nasir-mollah-7863a6291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="24" />
   </a>&nbsp;
   <a href="mailto:nasirmollah192@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" />
   </a>&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100029136485878" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="22" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="24" />
   </a>&nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nasir1290.Nasir1290&style=flat-square" height="22" />
+  <img src="https://komarev.com/ghpvc/?username=Nasir1290&style=flat-square&color=61dafb&label=PROFILE+VIEWS" height="24" />
 </div>
 
 <br/>
 
-## 👋 About Me
+---
 
-```ts
-const nasir = {
-  role     : "Full-Stack Developer & ML Enthusiast",
-  company  : "TechSpecy",
-  location : "Dhaka, Bangladesh 🇧🇩",
-  stack    : ["Next.js", "Node.js", "TypeScript", "Python", "MongoDB"],
-  learning : ["Machine Learning", "Data Science", "C#"],
-  goal     : "Building products that create real-world impact",
-};
-```
+<img align="right" width="340" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+
+### 🚀 Who Am I?
+
+- 🌍 Based in **Dhaka, Bangladesh**
+- 💻 Building full-stack web apps with **Next.js, Node.js & TypeScript**
+- 🤖 Mastering **AI & Machine Learning** — models, data pipelines & beyond
+- 🔷 Exploring **C#, .NET architecture** & **Angular**
+- ⚡ Passionate about writing **clean, scalable code**
+- 🎯 Goal: *Build products that create real-world impact*
 
 <br/>
+
+### 💡 Currently Working On
+
+```
+🤖  AI & ML — model building, data science, and intelligent systems
+🔷  C# · .NET architecture · Angular — expanding into enterprise stack
+🌐  Portfolio website with Next.js 14 App Router + dark aesthetic
+```
+
+<br clear="right"/>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -85,33 +95,40 @@ const nasir = {
 
 <br/>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir1290&theme=react&border_color=61dafb&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasir1290&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir1290&theme=react&border_color=61dafb&hide_border=true" height="170" alt="streak" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasir1290&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir1290&theme=react&border_color=61dafb&hide_border=true&layout=compact&langs_count=8&count_private=true&include_all_commits=true" height="140" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nasir1290&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir1290&theme=react&hide_border=true&layout=compact&langs_count=8&count_private=true&include_all_commits=true&card_width=600" height="145" alt="top langs" />
 </div>
 
 <br/>
 
+---
+
+## 🏆 Trophies
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasir1290&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nasir1290&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasir1290&theme=react-dark&hide_border=true&area=true&line=61dafb&point=ffffff" width="96%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=80&section=footer&fontSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:61dafb,100:0d1117&height=100&section=footer" width="100%" />
 </div>
