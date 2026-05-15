@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:61dafb,100:0d1117&height=200&section=header&text=Md%20Nasir%20Mollah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&descColor=61dafb&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nasir%20Mollah&fontSize=58&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16&descColor=ffffffaa&animation=twinkling" width="100%" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-nasir-mollah-7863a6291/" target="_blank">
@@ -12,35 +14,38 @@
   <a href="https://www.facebook.com/profile.php?id=100029136485878" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="24" />
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Nasir1290&style=flat-square&color=61dafb&label=PROFILE+VIEWS" height="24" />
+  <img src="https://komarev.com/ghpvc/?username=Nasir1290&style=flat-square&color=blueviolet&label=VIEWS" height="24" />
 </div>
 
 <br/>
 
 ---
 
-<img align="right" width="340" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
-
-### 🚀 Who Am I?
-
-- 🌍 Based in **Dhaka, Bangladesh**
-- 💻 Building full-stack web apps with **Next.js, Node.js & TypeScript**
-- 🤖 Mastering **AI & Machine Learning** — models, data pipelines & beyond
-- 🔷 Exploring **C#, .NET architecture** & **Angular**
-- ⚡ Passionate about writing **clean, scalable code**
-- 🎯 Goal: *Build products that create real-world impact*
-
-<br/>
-
-### 💡 Currently Working On
+<div align="center">
 
 ```
-🤖  AI & ML — model building, data science, and intelligent systems
-🔷  C# · .NET architecture · Angular — expanding into enterprise stack
-🌐  Portfolio website with Next.js 14 App Router + dark aesthetic
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   > whoami                                                   ║
+║                                                              ║
+║     Nasir — Full-Stack Developer based in Dhaka 🇧🇩          ║
+║     Crafting web apps by day, training models by night       ║
+║     Currently deep in: AI/ML · C# · .NET · Angular          ║
+║     Philosophy: ship fast, refactor fearlessly               ║
+║                                                              ║
+║   > ls interests/                                            ║
+║                                                              ║
+║     machine-learning/   neural-networks/   clean-arch/       ║
+║     full-stack-dev/     data-science/      open-source/      ║
+║                                                              ║
+║   > cat goal.txt                                             ║
+║                                                              ║
+║     Build products that create real-world impact.            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br clear="right"/>
+</div>
 
 ---
 
@@ -58,6 +63,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -66,7 +72,16 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Database & ORM**
 
@@ -100,13 +115,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir1290&theme=react&border_color=61dafb&hide_border=true" height="170" alt="streak" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasir1290&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir1290&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir1290&theme=react&hide_border=true&layout=compact&langs_count=8&count_private=true&include_all_commits=true&card_width=600" height="145" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasir1290&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir1290&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&count_private=true" height="160" />
 </div>
 
 <br/>
@@ -116,7 +130,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nasir1290&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nasir1290&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 </div>
 
 <br/>
@@ -124,11 +138,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasir1290&theme=react-dark&hide_border=true&area=true&line=61dafb&point=ffffff" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasir1290&theme=tokyo-night&hide_border=true&area=true" width="96%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:61dafb,100:0d1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
