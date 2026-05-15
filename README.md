@@ -25,7 +25,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Next.js+%7C+Node.js+%7C+TypeScript+%7C+Python;Currently+mastering+AI+%2F+ML+%F0%9F%A4%96;Exploring+C%23+%C2%B7+.NET+%C2%B7+Angular+%F0%9F%94%B7;Building+products+that+matter+%F0%9F%9A%80)
 
 </div>
----
 
 ## 🛠️ Tech Stack
 
