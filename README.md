@@ -14,7 +14,6 @@
   <a href="https://www.facebook.com/profile.php?id=100029136485878" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="24" />
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Nasir1290&style=flat-square&color=blueviolet&label=VIEWS" height="24" />
 </div>
 
 <br/>
@@ -22,30 +21,26 @@
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="60%" />
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > whoami                                                   ║
-║                                                              ║
-║     Nasir — Full-Stack Developer based in Dhaka 🇧🇩          ║
-║     Crafting web apps by day, training models by night       ║
-║     Currently deep in: AI/ML · C# · .NET · Angular          ║
-║     Philosophy: ship fast, refactor fearlessly               ║
-║                                                              ║
-║   > ls interests/                                            ║
-║                                                              ║
-║     machine-learning/   neural-networks/   clean-arch/       ║
-║     full-stack-dev/     data-science/      open-source/      ║
-║                                                              ║
-║   > cat goal.txt                                             ║
-║                                                              ║
-║     Build products that create real-world impact.            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+<div align="center">
+
+🌍 &nbsp;**Dhaka, Bangladesh** &nbsp;·&nbsp; 💻 &nbsp;**Full-Stack Developer** &nbsp;·&nbsp; 🤖 &nbsp;**AI/ML Engineer**
+
+<br/>
+
+> *"Crafting scalable web apps by day — training intelligent models by night."*
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Next.js+%7C+Node.js+%7C+TypeScript+%7C+Python;Currently+mastering+AI+%2F+ML+%F0%9F%A4%96;Exploring+C%23+%C2%B7+.NET+%C2%B7+Angular+%F0%9F%94%B7;Building+products+that+matter+%F0%9F%9A%80)
 
 </div>
+
+<br/>
 
 ---
 
@@ -119,8 +114,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasir1290&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir1290&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&count_private=true" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nasir1290&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nasir1290&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&count_private=true" height="160" />
 </div>
 
 <br/>
